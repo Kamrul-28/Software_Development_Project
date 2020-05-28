@@ -1,0 +1,46 @@
+.butn {
+    float: left;
+}
+
+.margin {
+    margin-left: 100px;
+    color: white;
+    font-size: 25px;
+}
+
+.nav {
+    height: 80px;
+    border: 2px solid rgb(32, 29, 29);
+    background: url(../img/bg-1.jpg)repeat;
+}
+
+.searchBlood {
+    margin-left: 400px;
+    padding-bottom: 50px;
+}
+
+.search {
+    width: 800px;
+    margin-left: 200px;
+}
+
+#body {
+    background: url(../img/bg-1.jpg);
+}
+
+.AuthLogin {
+    margin-top: 130px;
+    height: 400px;
+}
+
+.sidebar {
+    background: url(../img/bg-1.jpg);
+    height: 800px;
+    padding: 40px;
+    width: 300px;
+}
+
+.mainContent {
+    margin-left: 100px;
+    margin-top: 50px;
+}
